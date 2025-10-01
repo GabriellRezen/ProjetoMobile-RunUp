@@ -139,6 +139,8 @@ O projeto visa incentivar hábitos saudáveis, através de **acompanhamento de d
 - Testes e validação  
 - Criação de poster e vídeo promocional  
 
+<img width="1453" height="409" alt="image" src="https://github.com/user-attachments/assets/7807495a-898e-4613-aaae-6e769378a1ed" />
+
 ---
 
 ## Conclusão
