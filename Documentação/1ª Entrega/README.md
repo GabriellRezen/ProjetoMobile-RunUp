@@ -97,32 +97,41 @@ Entre os usuários desse tipo de aplicação o melhor e o maior número de downl
 ## Uma Versão Preliminar de Três Guiões
 
 1. **Novo usuário (23 anos, sedentário,estudante universitário, nunca correu antes, quer melhorar saúde):**
+   
     • Cena: Ele baixa o app motivado por anúncios sobre “começar a correr de forma gradual”.
-    •	Ação na app: 
+   
+    •	Ação na app:
         o	Cria uma conta e responde um questionário inicial sobre nível de atividade. 
         o	A app sugere metas iniciais: caminhada leve de 2 km 3x por semana.
         o	Explora o filtro de rotas para encontrar rotas curtas, seguras e arborizadas. 
         o	Usa a aba de comunidade para ver depoimentos de outros iniciantes.
-        o	Salva o histórico para acompanhar evolução semana a semana. 
+        o	Salva o histórico para acompanhar evolução semana a semana.
+   
     •	Objetivo: Ganhar motivação, sentir-se seguro ao começar devagar, criar hábito. 
 
 2. **Corredor experiente (35 anos, já corre 5x/semana, usa outros apps, mas quer algo mais completo e gratuito.):**
-    •	Cena: Ele baixa a app depois de ver que há filtros de rota “à beira-mar” e “mais ensolaradas”. 
+   
+    •	Cena: Ele baixa a app depois de ver que há filtros de rota “à beira-mar” e “mais ensolaradas”.
+
     •	Ação na app: 
         o	Usa o filtro avançado para criar rotas longas (10–15 km) com paisagens variadas. 
         o	Testa a funcionalidade “criar sua própria rota” para um treino específico.
         o	Define metas de performance (tempo/km). 
-        o	Interage na comunidade postando resultados e vendo desafios semanais. 
+        o	Interage na comunidade postando resultados e vendo desafios semanais.
+   
     •	Objetivo: Avaliar se a app oferece mais personalização e motivação que os concorrentes.
    
 3. **Corredor motivando amigo (28 anos, já corre há 3 anos; o amigo é sedentário, mas curioso.):**
+   
     •	Cena: Encontro num parque. Ele abre a app para mostrar as funções ao amigo.
+   
     •	Ação na app: 
         o	Mostra ao amigo os filtros de rota para iniciantes e caminhadas leves.
         o	Demonstra a aba de metas personalizadas para diferentes níveis. 
         o	Cria uma rota curta compartilhável para fazerem juntos. 
         o	Mostra a aba da comunidade, onde é possível acompanhar progresso e receber incentivos. 
-        o	Agenda uma meta conjunta de corrida leve no fim de semana. 
+        o	Agenda uma meta conjunta de corrida leve no fim de semana.
+   
     •	Objetivo: Tornar a app atraente para o amigo e motivá-lo a começar com metas realistas.
 
 ---
@@ -168,13 +177,13 @@ Entre os usuários desse tipo de aplicação o melhor e o maior número de downl
 
 ## Conclusão
 
-Atualmente, todo mundo precisa ter acesso à internet e às ferramentas digitais. Então, com base na prática de atividades físicas o projeto surgiu pensando   
-nisso para:  
-      •	Ajudar todo mundo a começar a caminhar ou correr, mesmo quem nunca fez isso antes
-      •	Deixar tudo fácil, com ferramentas bem simples de usar
-      •	Mostrar como a internet pode ser útil, com uma app que qualquer pessoa   consegue usar, tipo idosos ou quem tem alguma dificuldade.  
+Atualmente, todo mundo precisa ter acesso à internet e às ferramentas digitais. Então, com base na prática de atividades físicas o projeto surgiu pensando nisso para:  
+•	Ajudar todo mundo a começar a caminhar ou correr, mesmo quem nunca fez isso antes
+•	Deixar tudo fácil, com ferramentas bem simples de usar
+•	Mostrar como a internet pode ser útil, com uma app que qualquer pessoa consegue usar, tipo idosos ou quem tem alguma dificuldade.  
 A ideia do projeto é: Dar um empurrãozinho para ter hábitos mais saudáveis com a ajuda da Tecnologia. Garantir que as pessoas se sintam seguras e engajadas quando   
-estiverem se exercitando. Ajudar cada um a melhorar, acompanhando o que está rolando. Fazer com que mais gente tenha acesso à saúde e ao bem-estar, sem distinção.
+estiverem se exercitando. Ajudar cada um a melhorar, acompanhando o que está rolando. Fazer com que mais gente tenha acesso à saúde e ao bem-estar, sem   
+distinção.
 
 ---
 
