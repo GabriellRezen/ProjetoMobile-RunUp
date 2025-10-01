@@ -11,11 +11,12 @@
 - Edmilson Alberto Marcos Tudo – 20241542  
 - Francisco Rocha Zolana – 20240801  
 
-Lisboa, 05 de outubro de 2025  
+**Palavras Chave**
+Corrida, Caminhada, RunUp, Saúde, Fitness
 
 ---
 
-## 📌 Índice
+## Índice
 - [Descrição da App](#descrição-da-app)
 - [Requisitos Funcionais e Não Funcionais](#requisitos-funcionais-e-não-funcionais)
 - [Objetivos e Motivação](#descrição-dos-objetivos-e-da-motivação-do-trabalho)
@@ -29,7 +30,7 @@ Lisboa, 05 de outubro de 2025
 
 ---
 
-## 📱 Descrição da App
+## Descrição da App
 
 O grupo pretende desenvolver uma aplicação de corridas focada na comunidade de corredores e praticantes de desporto para **gestão e acompanhamento de treinos**.  
 
@@ -46,7 +47,7 @@ O grupo pretende desenvolver uma aplicação de corridas focada na comunidade de
 
 ---
 
-## ✅ Requisitos Funcionais e Não Funcionais
+## Requisitos Funcionais e Não Funcionais
 
 **Funcionais:**
 - Criar rotas personalizadas  
@@ -67,7 +68,7 @@ O grupo pretende desenvolver uma aplicação de corridas focada na comunidade de
 
 ---
 
-## 🎯 Descrição dos Objetivos e da Motivação do Trabalho
+## Descrição dos Objetivos e da Motivação do Trabalho
 
 A prática regular da caminhada e corrida ajuda a:  
 - Reduzir inatividade física  
@@ -79,7 +80,7 @@ O projeto visa incentivar hábitos saudáveis, através de **acompanhamento de d
 
 ---
 
-## 🏃‍♂️ Identificação de Público-Alvo
+## Identificação de Público-Alvo
 
 - Corredores iniciantes e caminhantes  
 - Pessoas que buscam saúde e lazer  
@@ -87,7 +88,7 @@ O projeto visa incentivar hábitos saudáveis, através de **acompanhamento de d
 
 ---
 
-## 🔎 Pesquisa de Mercado
+## Pesquisa de Mercado
 
 - Tendências no **#RunningTok** e **#Runstagram**  
 - Aplicações atuais: Nike Run Club, Adidas Running, Strava  
@@ -96,7 +97,7 @@ O projeto visa incentivar hábitos saudáveis, através de **acompanhamento de d
 
 ---
 
-## 📖 Uma Versão Preliminar de Três Guiões
+## Uma Versão Preliminar de Três Guiões
 
 1. **Novo usuário (23 anos, sedentário):** cria conta, metas leves, explora rotas seguras, usa comunidade.  
 2. **Corredor experiente (35 anos):** cria rotas longas, define metas avançadas, partilha resultados.  
@@ -104,7 +105,7 @@ O projeto visa incentivar hábitos saudáveis, através de **acompanhamento de d
 
 ---
 
-## 🛠️ Descrição da Solução a Implementar
+## Descrição da Solução a Implementar
 
 - Aplicação mobile gratuita com **geolocalização e registo em tempo real**  
 - Criação de rotas personalizadas (distância, áreas verdes, praias, sol, etc.)  
@@ -129,7 +130,7 @@ O projeto visa incentivar hábitos saudáveis, através de **acompanhamento de d
 
 ---
 
-## 📅 Planeamento e Calendarização
+## Planeamento e Calendarização
 
 - Mockups e interface (Figma)  
 - Desenvolvimento da base de dados (SQL Workbench)  
@@ -140,7 +141,7 @@ O projeto visa incentivar hábitos saudáveis, através de **acompanhamento de d
 
 ---
 
-## 📝 Conclusão
+## Conclusão
 
 O **RunUp** é um projeto que visa:  
 - Incentivar hábitos mais saudáveis com tecnologia  
@@ -150,8 +151,10 @@ O **RunUp** é um projeto que visa:
 
 ---
 
-## 📚 Bibliografia
+## Bibliografia
 
-*(A preencher conforme referências utilizadas no projeto)*  
+1. *Google Maps Platform – APIs by Platform.* Google Developers. Recuperado de: https://developers.google.com/maps/apis-by-platform :contentReference[oaicite:0]{index=0}  
+2. *“Corrida foi o esporte que mais cresceu no mundo em 2024”, diz relatório.* Saúde Abril :contentReference[oaicite:1]{index=1}  
+3. *Os Melhores App de Corrida: Qual Escolher para Melhorar Seu Desempenho?* Az on Esportes. :contentReference[oaicite:2]{index=2}
 
 ---
