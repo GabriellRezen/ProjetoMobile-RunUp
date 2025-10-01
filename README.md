@@ -153,8 +153,13 @@ O **RunUp** é um projeto que visa:
 
 ## Bibliografia
 
-1. *Google Maps Platform – APIs by Platform.* Google Developers. Recuperado de: https://developers.google.com/maps/apis-by-platform :contentReference[oaicite:0]{index=0}  
-2. *“Corrida foi o esporte que mais cresceu no mundo em 2024”, diz relatório.* Saúde Abril :contentReference[oaicite:1]{index=1}  
-3. *Os Melhores App de Corrida: Qual Escolher para Melhorar Seu Desempenho?* Az on Esportes. :contentReference[oaicite:2]{index=2}
+1. **Google Maps Platform – APIs by Platform**  
+   Disponível em: https://developers.google.com/maps/apis-by-platform?hl=pt-br  
+
+2. **“Corrida foi o esporte que mais cresceu no mundo em 2024”, diz relatório**  
+   Saúde Abril. Disponível em: https://saude.abril.com.br/fitness/corrida-foi-o-esporte-que-mais-cresceu-no-mundo-em-2024-diz-relatorio/  
+
+3. **Os Melhores Apps de Corrida: Qual Escolher para Melhorar Seu Desempenho?**  
+   Az on Esportes. Disponível em: https://azonesportes.com.br/app-de-corrida/  
 
 ---
