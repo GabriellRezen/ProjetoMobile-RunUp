@@ -32,7 +32,8 @@ Corrida, Caminhada, RunUp, Saúde, Fitness
 
 ## Descrição da App
 
-O grupo pretende desenvolver uma aplicação de corridas focada na comunidade de corredores e praticantes de desporto para **gestão e acompanhamento de treinos**.  
+O nosso grupo pretende desenvolver uma aplicação de corridas com o foco na comunidade de corredores e praticantes de desporto para o controle e gestão dos seus treinos, com o foco principal em corredores e caminhantes iniciantes na criação de rotas e armazenamentos de treinos anteriores. Pretendemos adicionar as seguintes funções na aplicação: <img width="442" height="178" alt="image" src="https://github.com/user-attachments/assets/e74503f7-72a0-428c-84ae-efa6cefd1aff" />
+ 
 
 **Funcionalidades previstas:**
 - Criar rotas personalizadas (filtros: km, elevação, parques, praia, sol, etc.)
