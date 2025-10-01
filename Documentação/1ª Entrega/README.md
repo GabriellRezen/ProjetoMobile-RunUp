@@ -172,6 +172,9 @@ Entre os usuários desse tipo de aplicação o melhor e o maior número de downl
 
 <img width="1453" height="409" alt="image" src="https://github.com/user-attachments/assets/7807495a-898e-4613-aaae-6e769378a1ed" />
 
+## Mockup da Aplicação
+
+./Mockup_RunUp.png
 
 ---
 
