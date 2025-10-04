@@ -187,7 +187,7 @@ Atualmente, todo mundo precisa ter acesso à internet e às ferramentas digitais
 •	Deixar tudo fácil, com ferramentas bem simples de usar
 •	Mostrar como a internet pode ser útil, com uma app que qualquer pessoa consegue usar, tipo idosos ou quem tem alguma dificuldade.  
 A ideia do projeto é: Dar um empurrãozinho para ter hábitos mais saudáveis com a ajuda da Tecnologia. Garantir que as pessoas se sintam seguras e engajadas quando   
-estiverem se exercitando. Ajudar cada um a melhorar, acompanhando o que está rolando. Fazer com que mais gente tenha acesso à saúde e ao bem-estar, sem distinção.
+estiverem se exercitando. Ajudar cada um a melhorar, acompanhando o seu progresso. Fazer com que mais gente tenha acesso à saúde e ao bem-estar, sem distinção.
 
 ---
 
