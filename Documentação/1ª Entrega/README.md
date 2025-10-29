@@ -43,7 +43,7 @@ O nosso grupo pretende desenvolver uma aplicação de corridas com o foco na com
 - Comunidade para partilha de corridas
 - Registo de utilizadores
 - Histórico de elevação
-- Definir metas pessoais
+
 
 Pretende-se com isso diminuir a falta de variedade e dificuldades no planejamento de distâncias e percursos nos treinos, sugerindo rotas/ percursos novas personalizadas para os utilizadores e calculando a quilometragem desejada. Também pretendemos aumentar o engajamento social entre os utilizadores através da aba da comunidade.
 
